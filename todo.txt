@@ -6,3 +6,5 @@ Conversion functions needed:
 - Degrees to Radians
 - Mpc to Light Years
 - Different changes
+- ~*~*~*~ Random changes ~*~*~*~*~
+- More changes...
